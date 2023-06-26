@@ -1,0 +1,24 @@
+
+Level-1 Fundamentals
+ Linux Basic 
+ Windows Basic 
+ Web Application Basic 
+ Python Fundamentals
+ Basics of Server
+ Basics of Cryptography 
+ Basics of Networking 
+
+Level-2 Tools
+ List of Tools
+
+Level-3 Vulnerable Machines
+ Vulnerable Machines
+ OverTheWire
+ DVWA
+ picoCTF
+ VulnHub
+ HackTheBox
+
+Level-4 A+ Topics
+  
+Level-5 OSCP
